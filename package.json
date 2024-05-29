@@ -1,0 +1,24 @@
+{
+  "name": "simanang-api",
+  "version": "1.0.0",
+  "description": "An http client library to connect to the SIMANANG API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rangkotodotcom/node-simanang-api.git"
+  },
+  "keywords": [
+    "node",
+    "simanang",
+    "api"
+  ],
+  "author": "Jamilur Rusydi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rangkotodotcom/node-simanang-api/issues"
+  },
+  "homepage": "https://github.com/rangkotodotcom/node-simanang-api#readme"
+}
