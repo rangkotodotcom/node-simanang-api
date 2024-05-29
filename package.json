@@ -4,6 +4,7 @@
   "description": "An http client library to connect to the SIMANANG API",
   "main": "index.js",
   "scripts": {
+    "lint": "standard --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,14 @@
   "bugs": {
     "url": "https://github.com/rangkotodotcom/node-simanang-api/issues"
   },
-  "homepage": "https://github.com/rangkotodotcom/node-simanang-api#readme"
+  "homepage": "https://github.com/rangkotodotcom/node-simanang-api#readme",
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0",
+    "nock": "^13.5.4",
+    "standard": "^17.1.0"
+  }
 }
