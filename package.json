@@ -1,5 +1,5 @@
 {
-  "name": "simanang-api",
+  "name": "@rangkotodotcom/simanang-api",
   "version": "1.0.0",
   "description": "An http client library to connect to the SIMANANG API",
   "main": "index.js",
