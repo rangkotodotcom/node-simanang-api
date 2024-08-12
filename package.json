@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An http client library to connect to the SIMANANG API",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "lint": "standard --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
